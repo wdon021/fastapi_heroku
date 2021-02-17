@@ -1,0 +1,6 @@
+scikit-learn
+fastapi
+python-multipart
+uvicorn
+opencensus-ext-azure
+pandas

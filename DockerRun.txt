@@ -1,0 +1,3 @@
+1. sudo docker build -t nameofdocker . ### tag need to be small letter
+2. docker run -p 8080:8080 nameofdocker ## port is the port you define in the main.py and dockerfile
+3. To go into a docker and experiment: docker run -it --rm nameofdocker /bin/bash
